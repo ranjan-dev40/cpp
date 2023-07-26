@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/abhishek c .doc/ranjan.cpp"
+		},
+		{
+			"path": "../c++"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.c": "c",
+			"ostream": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
+}
