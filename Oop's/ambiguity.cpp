@@ -10,7 +10,6 @@ class A {
 };
 
 class B {
-    public:
 
     void func() {
         cout << " I am B" << endl;

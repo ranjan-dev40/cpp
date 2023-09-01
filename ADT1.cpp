@@ -99,7 +99,7 @@ void reverse_1(Array *arr)
     }
 }
 
-void is_sort(Array arr)
+bool is_sort(Array arr)
 {
     for (int i = 0; i < arr.length - 1; i++)
     {
