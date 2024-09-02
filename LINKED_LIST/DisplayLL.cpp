@@ -8,7 +8,7 @@ struct Node
 
 } *first = NULL;
 
-void create(int a[], int n)
+void create (int a[], int n)
 {
 
     int i;

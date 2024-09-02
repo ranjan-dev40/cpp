@@ -22,6 +22,8 @@ int main() {
         int j = 1;
         while(j <= n-row+1 ) {
             cout<<"*";
+            
+
             // cout<<j;
             j = j + 1;
         }
